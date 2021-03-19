@@ -24,7 +24,7 @@ Flask-WTF==0.14.2
 Genshi==0.7
 gunicorn==19.7.1
 itsdangerous==0.24
-Jinja2==2.9.4
+Jinja2==2.11.3
 kombu==4.0.2
 MarkupSafe==0.23
 mongo==0.2.0
